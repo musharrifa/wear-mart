@@ -1,0 +1,15 @@
+
+body{
+	
+	margin:0;
+	padding:0;
+	
+   background:url("https://media.istockphoto.com/id/171365359/photo/abstract-blue-silk-background.jpg?s=612x612&w=0&k=20&c=2Pz3f5R7cQNbZJydSbZ-9oICPjhjizyhTd_tw505L-E=");
+   background-size:cover;
+   background-position:center;
+   font-family: sans-serif;
+   
+} 
+
+.sign-up-form h1
+
